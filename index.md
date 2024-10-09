@@ -9,7 +9,7 @@ Red
 ```
 follow me on github :smile: [JSaaski](https://github.com/JSaaski).
 
-check my other website [page] (https://jsaaski.github.io/webbisovellusprojekti)
+check my other [website](https://jsaaski.github.io/webbisovellusprojekti).
 
 > [!TIP]
 > Remember to follow me! Thank you.
